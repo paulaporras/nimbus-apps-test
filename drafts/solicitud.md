@@ -1,1 +1,1 @@
-Sí
+Incidencia crítica: los usuarios no pueden iniciar sesión en la aplicación. El servicio está bloqueado y afecta a todos los usuarios. Se requiere atención urgente para restaurar el acceso y mitigar el impacto.
