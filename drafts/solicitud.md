@@ -1,16 +1,7 @@
-# Documentación del Issue
+## Borrador de Documento
 
-## Descripción
-Los usuarios no pueden iniciar sesión en la aplicación. El servicio está bloqueado y afecta a todos los usuarios.
+### Solicitud: Error crítico al iniciar sesión
 
-## Impacto
-- Bloqueo total del acceso.
-- Afecta a la totalidad de la base de usuarios.
-- Función esencial (autenticación) inoperativa.
-
-## Pasos para reproducir
-1. Intentar iniciar sesión con credenciales válidas.
-2. Observar error o ausencia de respuesta.
-
-## Prioridad
-Alta – impide el uso completo del servicio.
+**Descripción:** Los usuarios no pueden iniciar sesión en la aplicación. El servicio está bloqueado y afecta a todos los usuarios.
+**Impacto:** Bloqueo total del servicio de autenticación; afecta a todos los usuarios.
+**Prioridad:** Alta - Error crítico que impide el inicio de sesión.
