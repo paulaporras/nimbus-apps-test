@@ -1,3 +1,16 @@
-# Documento de la solicitud
+# Documentación del Issue
 
-Se ha reportado un error crítico que impide a los usuarios iniciar sesión. El servicio está bloqueado y afecta a todos los usuarios. Se requiere documentar el incidente, el impacto y las acciones de mitigación.
+## Descripción
+Los usuarios no pueden iniciar sesión en la aplicación. El servicio está bloqueado y afecta a todos los usuarios.
+
+## Impacto
+- Bloqueo total del acceso.
+- Afecta a la totalidad de la base de usuarios.
+- Función esencial (autenticación) inoperativa.
+
+## Pasos para reproducir
+1. Intentar iniciar sesión con credenciales válidas.
+2. Observar error o ausencia de respuesta.
+
+## Prioridad
+Alta – impide el uso completo del servicio.
