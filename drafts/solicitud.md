@@ -1,14 +1,17 @@
-# Error crítico al iniciar sesión
+## Error Crítico al Iniciar Sesión
 
-Los usuarios no pueden iniciar sesión en la aplicación. El servicio está bloqueado y afecta a todos los usuarios.
+**Título:** URGENTE: Error crítico al iniciar sesión
 
-## Impacto
-- Bloqueo total del acceso.
-- Afecta a todos los usuarios.
+**Descripción:** Los usuarios no pueden iniciar sesión en la aplicación. El servicio está bloqueado y afecta a todos los usuarios.
 
-## Pasos para reproducir
-1. Intentar iniciar sesión.
-2. Observar error.
+**Impacto:** Alto - Bloqueo completo del servicio para todos los usuarios.
 
-## Solución esperada
-Restaurar la funcionalidad de inicio de sesión lo antes posible.
+**Posibles Causas:**
+- Error en el servicio de autenticación
+- Problemas con la base de datos de usuarios
+- Configuración incorrecta del entorno
+
+**Acciones Recomendadas:**
+1. Verificar logs del servidor de autenticación
+2. Revisar estado de la base de datos
+3. Comprobar configuraciones de entorno
